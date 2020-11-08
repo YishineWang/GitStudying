@@ -1,4 +1,7 @@
 Hello there! Here is my first git practice
+Hello there! Good morning. Here is my first (third) git practice
 
 I forget some details, here it is:
-"Nothing there actually :D" So I need to commit again!
+"Nothing there actually :D" So I need to commit again!"Nothing there actually :D" So I need to commit again!
+
+Hi, I am comming again for testing... this time I also add some detials in the pervious part, and see how it works.
