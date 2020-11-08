@@ -1,1 +1,4 @@
 Hello there! Here is my first git practice
+
+I forget some details, here it is:
+"Nothing there actually :D" So I need to commit again!
